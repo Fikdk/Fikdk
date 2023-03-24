@@ -1,4 +1,4 @@
-## Olá!! 😊 Eu sou o Luigi, prazer em te ver por aqui :)
+## Olá!! 😊 Eu sou o Luigi, é um prazer te ver por aqui :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikdk&show_icons=true&theme=dark)
 
